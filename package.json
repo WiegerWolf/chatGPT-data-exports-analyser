@@ -1,0 +1,16 @@
+{
+  "name": "8ea4b4633acf079cb4b309792179a8d818e0190b5494621d1677079c7a440455-2024-04-23-11-21-51",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "js-tiktoken": "^1.0.11"
+  }
+}
